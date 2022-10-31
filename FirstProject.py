@@ -24,4 +24,4 @@ profitable = True
 
 print(type(desc))
 
-print("I can also add integers, like " + str(5) + " to strings.")
+print("I can also add integers like " + str(5) + " to strings.")

@@ -16,7 +16,7 @@ print("Your BMI is: " + str(bmi))
 growth_multiplier = 1.1
 savings = 100
 
-result = growth_multiplier ** 7 * savings
+result = growth_multiplier ** 8 * savings
 print(result)
 
 desc = "compound interest"

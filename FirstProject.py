@@ -6,6 +6,7 @@ print(4**8)
 
 # Remainder
 print(200 % 7)
+print(100 % 3)
 
 height = 1.79
 weight = 68.7

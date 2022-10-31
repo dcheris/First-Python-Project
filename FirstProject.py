@@ -16,7 +16,7 @@ print("Your BMI is: " + str(bmi))
 growth_multiplier = 1.1
 savings = 100
 
-result = growth_multiplier **7 * savings
+result = growth_multiplier ** 7 * savings
 print(result)
 
 desc = "compound interest"
@@ -24,5 +24,4 @@ profitable = True
 
 print(type(desc))
 
-print("I can add integers, like " + str(5) + " to strings.")
-
+print("I can also add integers, like " + str(5) + " to strings.")
